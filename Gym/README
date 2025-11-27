@@ -1,0 +1,28 @@
+This dataset is an anonymized file of gym membership and activity. 
+It contains demographic, memberships, visits and workout data. 
+.
+Features
+
+Each row represents one gym member, with the following columns:
+
+Member_ID: Unique identifier for each member
+
+Name: Anonymized name
+
+Age / Gender / Address / Phone_Number: Basic demographic info
+
+Membership_Type: Monthly, Quarterly, or Yearly
+
+Join_Date / Last_Visit_Date: Membership timeline
+
+Favorite_Exercise: Common exercise or gym activity
+
+Avg_Workout_Duration_Min: Average time spent per session
+
+Avg_Calories_Burned: Estimated calories burned per workout
+
+Total_Weight_Lifted_kg: Total weight lifted in workouts
+
+Visits_Per_Month: Average gym visits per month
+
+Churn: Indicates whether a member has stopped attending (Yes or No)
